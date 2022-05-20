@@ -1,3 +1,6 @@
+# This is my Senior class project, front-end, SwiftifyTicketing.
+Swiftifyticketing is an online application which allows for a school faculty to post tickets and close them upon repair within an organization. Users will be able to give a ticket a description, priority and status etc. Tickets are tracked inside of a dashboard and the users have role based permissions to access that information.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
